@@ -1,1 +1,1 @@
-This folder contains the simulator developed indivisually be all the project members.
+This directory contains the simulator developed indivisually be all the project members.
